@@ -1,0 +1,47 @@
+h1, h2, h3, h4, h5, h6{
+    font-family: "Tahoma", serif;
+    margin-block-end: -12px;
+    border-bottom: 5px double;
+  }
+
+.copyright{
+    border-top: 5px double;
+    padding-top: 5px;
+    font-family: "Tahoma", serif;
+}
+
+header{
+    display: grid;
+    grid-template-columns: 100px auto;
+    align-items: center;
+    background-color: Khaki;
+}
+
+.name{
+    padding-left: 29px;
+}
+
+.personal-picture{
+    padding-top: 4px;
+    padding-left: 4px;
+}
+
+footer{
+    background-color: khaki;
+}
+
+nav ul{
+    font-family: "Tahoma", serif;
+}
+
+.name{
+    font-family: "Tahoma", serif;
+    font-size: x-large;
+}
+
+.last-updated{
+    font-family: "Tahoma", serif;
+    font-size: x-small;
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
